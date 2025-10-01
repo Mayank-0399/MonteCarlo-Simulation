@@ -1,0 +1,16 @@
+# Virtual environment
+mc_env/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+
+# Data files (often large and shouldn't be tracked)
+*.csv
+*.png
+
+# Operating System files
+.DS_Store
+Thumbs.db
